@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agustin Pereyra</h1>
 <h3 align="center">A passionate Full Stack developer from Argentina</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aguspereyraa" alt="aguspereyraa" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aguspereyraa" alt="aguspereyraa" /></a> </p> -->
 
 - 📫 How to reach me **pereyra.agus@outlook.com.ar**
 
